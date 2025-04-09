@@ -20,6 +20,7 @@ This app is all about exploring products! When you open it, you’ll see a list 
 2. **Open in Android Studio**: Use the latest version of Android Studio to open the project.
 3. **Connect to Internet**: Make sure your computer or phone is online since the app pulls data from the web.
 4. **Run It**: Hit the "Run" button, and it should work on your Android device or emulator!
+5. OR just download the composeApp.apk and you're good to go!
 
 ## Tech I Used
 
